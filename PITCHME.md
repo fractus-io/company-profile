@@ -2,7 +2,7 @@
 
 ### Fractus IT d.o.o <br>
 ##### Ive Tijardovica 8, 2100 Split, Croatia<br>
-##### Web: [fractus.io](https://fractus.io)<br>
+##### [fractus.io](https://fractus.io)<br>
 
 ---
 

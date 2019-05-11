@@ -6,7 +6,7 @@
 
 ---
 
-#### Company Bio<br>
+### Company Bio<br>
 - Founded at 2017
 - Provides full range of software development, educational and consulting services
 - Expertize in:
@@ -16,14 +16,14 @@
 
 ---
 
-#### Software Development Services <br>
+### Software Development Services <br>
 - Custom Software Development
 - Based on Open Source Technologies
 - Complete Software Development Life-cycle 
    
 ---
 
-#### Education Services<br>
+### Education Services<br>
 - Programming Languages 
 - Open Source Frameworks
 - Software Architecture
@@ -33,7 +33,7 @@
     
 ---
 
-#### Consulting Services<br>
+### Consulting Services<br>
 - Open Source Technologies
 - Big Data
 - Software Architecture
@@ -43,7 +43,7 @@
 
 ---
 
-#### References<br>
+### References<br>
 - [Trovicor](https://trovicor.com/en/)
 - [The Mobility House AG](https://www.mobilityhouse.com/int_en/)
 - [Alcina Ltd](http://www.alcina.hr/en/)

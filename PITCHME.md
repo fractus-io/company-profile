@@ -50,6 +50,7 @@
 - [ABC Software Development Ltd](https://www.abc-softwaredev.com/)
 - [Husar Ltd](https://www.husar.hr/en/)
 - [Digital Captal Ltd](http://www.digi-capital.co.uk/)
+- [Fractal Ltd](http://www.fractal.hr/index.html)
 - [ATOS CONVERGENCE CREATORS Ltd](https://atos.net/hr/hrvatska)
     
 ---
